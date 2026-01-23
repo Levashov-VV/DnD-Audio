@@ -1,0 +1,236 @@
+{
+	"Castle": {
+		"cover": "Castle/Castle.jpg",
+		"music": [
+			{ "name": "Птицы", "url": "Castle/Birds.mp3" },
+			{ "name": "Карета с лошадьми", "url": "Castle/Carriage horse.mp3" },
+			{ "name": "Атмосфера замка", "url": "Castle/Castle atmosphere.mp3" },
+			{ "name": "Звон колоколов", "url": "Castle/Church bell.mp3" },
+			{ "name": "Монеты", "url": "Castle/Coins.mp3" },
+			{ "name": "Фанфары", "url": "Castle/Fanfare.mp3" },
+			{ "name": "Шаги", "url": "Castle/Footsteps.mp3" },
+			{ "name": "Открытие ворот", "url": "Castle/Gates.mp3" },
+			{ "name": "Бег лошади", "url": "Castle/Horse.mp3" },
+			{ "name": "Оркестр", "url": "Castle/Orchestra.mp3" },
+			{ "name": "Дождь", "url": "Castle/Rain.mp3" },
+			{ "name": "Королевский балл", "url": "Castle/Royal score.mp3" },
+			{ "name": "Ветер", "url": "Castle/Wind.mp3" }
+		]
+	},
+	"Dungeon": {
+		"cover": "The Dungeon/Dungeon.jpg",
+		"music": [
+			{ "name": "Стрела", "url": "The Dungeon/Arrow.mp3" },
+			{ "name": "Летучие мыши", "url": "The Dungeon/Bats flying.mp3" },
+			{ "name": "Ловушка из ножей", "url": "The Dungeon/Blade trap.mp3" },
+			{ "name": "Пузырьки", "url": "The Dungeon/Bubbles.mp3" },
+			{ "name": "Гул насекомых", "url": "The Dungeon/Buzz Insects.mp3" },
+			{ "name": "Открытие двери", "url": "The Dungeon/Door.mp3" },
+			{ "name": "Звук капель", "url": "The Dungeon/Drips.mp3" },
+			{ "name": "Магия огня", "url": "The Dungeon/Fire.mp3" },
+			{ "name": "Костёр", "url": "Dungeon/Fireplace.mp3" },
+			{ "name": "Шаги", "url": "Dungeon/Footsteps.mp3" },
+			{ "name": "Рычание монстра", "url": "Dungeon/Growl.mp3" },
+			{ "name": "Интрига", "url": "Dungeon/Intrigue.mp3" },
+			{ "name": "Магическая ловушка", "url": "Dungeon/Magic trap.mp3" },
+			{ "name": "Накладывание магии", "url": "Dungeon/Magic.mp3" },
+			{ "name": "Металлическая цепь", "url": "Dungeon/Metal chain.mp3" },
+			{ "name": "Открытие сундука", "url": "Dungeon/Open Chest.mp3" },
+			{
+				"name": "Открытие саркофага",
+				"url": "Dungeon/Opening the sarcophagus.mp3"
+			},
+			{ "name": "Крысы", "url": "Dungeon/Rats.mp3" },
+			{ "name": "Крик монстра", "url": "Dungeon/Roar.mp3" },
+			{ "name": "Грохот", "url": "Dungeon/Rumble.mp3" },
+			{ "name": "Пугающая атмосфера", "url": "Dungeon/Scary atmosphere.mp3" },
+			{ "name": "Крик", "url": "Dungeon/Scream.mp3" },
+			{ "name": "Открылась комната", "url": "Dungeon/Secret room.mp3" },
+			{
+				"name": "Музыка подземелья",
+				"url": "Dungeon/Sounds of the Dungeon.mp3"
+			},
+			{ "name": "Вода", "url": "Dungeon/Water.mp3" },
+			{ "name": "Ветер", "url": "Dungeon/Wind.mp3" }
+		]
+	},
+	"Town": {
+		"cover": "Old Town/Old town.jpg",
+		"music": [
+			{ "name": "Назревает конфликт", "url": "Old Town/Action.mp3" },
+			{ "name": "Птицы", "url": "Old Town/Birds.mp3" },
+			{ "name": "Кузнец", "url": "Old Town/Blacksmith.mp3" },
+			{ "name": "Взрыв", "url": "Old Town/Boom.mp3" },
+			{ "name": "Лёгкий ветер", "url": "Old Town/Breeze.mp3" },
+			{ "name": "Карета с лошадьми", "url": "Old Town/Carriage horse.mp3" },
+			{ "name": "Звон колоколов", "url": "Old Town/Church bell.mp3" },
+			{ "name": "Монеты", "url": "Old Town/Coins.mp3" },
+			{ "name": "Коровы", "url": "Old Town/Cows.mp3" },
+			{ "name": "Сверчки", "url": "Old Town/Cricket.mp3" },
+			{ "name": "Толпа", "url": "Old Town/Crowd.mp3" },
+			{ "name": "Лай собак", "url": "Old Town/Dogs.mp3" },
+			{ "name": "Фанфары", "url": "Old Town/Fanfare.mp3" },
+			{ "name": "Флаг", "url": "Old Town/Flag.mp3" },
+			{ "name": "Шаги", "url": "Old Town/Footsteps.mp3" },
+			{ "name": "Фонтан", "url": "Old Town/Fountain.mp3" },
+			{ "name": "Стройка", "url": "Old Town/Hammer.mp3" },
+			{ "name": "Тяжелые ворота", "url": "Old Town/Heavy Gates.mp3" },
+			{ "name": "Бег лошади", "url": "Old Town/Horse.mp3" },
+			{ "name": "Большая толпа", "url": "Old Town/Large Crowd.mp3" },
+			{ "name": "Дождь", "url": "Old Town/Light rain.mp3" },
+			{ "name": "Рынок", "url": "Old Town/Market.mp3" },
+			{ "name": "Храм", "url": "Old Town/Monastery.mp3" },
+			{ "name": "Гроза", "url": "Old Town/Thunder.mp3" },
+			{ "name": "Ветер", "url": "Old Town/Wind.mp3" }
+		]
+	},
+	"Market": {
+		"cover": "Market/Market.jpg",
+		"music": [
+			{ "name": "Доспехи", "url": "Market/Armor.mp3" },
+			{ "name": "Чтение книги", "url": "Market/Book.mp3" },
+			{ "name": "Монеты", "url": "Market/Coins.mp3" },
+			{ "name": "Арбалет", "url": "Market/Crossbow.mp3" },
+			{ "name": "Дверь", "url": "Market/Door.mp3" },
+			{ "name": "Шаги", "url": "Market/Footsteps.mp3" },
+			{ "name": "Кинжалы", "url": "Market/Knife.wav" },
+			{ "name": "Магические предметы", "url": "Market/Magic item.mp3" },
+			{ "name": "Зелья", "url": "Market/Potion.mp3" },
+			{ "name": "Дождь", "url": "Market/Rain.mp3" },
+			{ "name": "Позвать продавца", "url": "Market/Ring Bell.mp3" },
+			{ "name": "Щиты", "url": "Market/Shield.mp3" },
+			{ "name": "Храп", "url": "Market/Snoring.mp3" },
+			{ "name": "Мечи", "url": "Market/Sword.mp3" },
+			{ "name": "Добро пожаловать", "url": "Market/Welcome.mp3" },
+			{ "name": "Ветер", "url": "Market/Wind.mp3" }
+		]
+	},
+	"Tavern": {
+		"cover": "The Tavern/Tavern.jpg",
+		"music": [
+			{ "name": "Крик лошади", "url": "The Tavern/Horse.mp3" },
+			{ "name": "Дождь", "url": "The Tavern/Rain.mp3" },
+			{ "name": "Ветер", "url": "The Tavern/Wind.mp3" },
+			{ "name": "Песня барда", "url": "The Tavern/Bard Song.mp3" },
+			{ "name": "Налить напиток", "url": "The Tavern/Bottling of drinks.mp3" },
+			{ "name": "Игра в карты", "url": "The Tavern/Cards.mp3" },
+			{ "name": "Овации", "url": "The Tavern/Cheers.mp3" },
+			{ "name": "Монеты", "url": "The Tavern/Coins.mp3" },
+			{ "name": "Общение толпы", "url": "The Tavern/Crowd.mp3" },
+			{ "name": "Готовка еды", "url": "The Tavern/Cutting food.mp3" },
+			{ "name": "Игра в кости", "url": "The Tavern/Dice Rolling.mp3" },
+			{ "name": "Открыли дверь", "url": "The Tavern/Door.mp3" },
+			{ "name": "Камин", "url": "The Tavern/Fireplace.mp3" },
+			{ "name": "Шаги", "url": "The Tavern/Footsteps.mp3" },
+			{ "name": "Удар по столу", "url": "The Tavern/Hit Table.mp3" },
+			{ "name": "Освистывание", "url": "The Tavern/Jeers.mp3" },
+			{ "name": "Смех", "url": "The Tavern/Laugh.mp3" },
+			{ "name": "Аплодисменты", "url": "The Tavern/Light Applause.mp3" },
+			{ "name": "Столовый прибор", "url": "The Tavern/Plate.mp3" },
+			{ "name": "Посуда", "url": "The Tavern/Plates.mp3" },
+			{ "name": "Вас зовут", "url": "The Tavern/Psst.mp3" },
+			{ "name": "Храп", "url": "The Tavern/Snoring.mp3" },
+			{ "name": "Сильный ветер", "url": "The Tavern/Strong Wind.mp3" }
+		]
+	},
+	"Swamp": {
+		"cover": "The Swamp/Swamp.jpg",
+		"music": [
+			{ "name": "Крокодил", "url": "The Swamp/Alligator.mp3" },
+			{ "name": "Птицы", "url": "The Swamp/Birds.mp3" },
+			{ "name": "Пузыри", "url": "The Swamp/Bubbles.mp3" },
+			{ "name": "Гул насекомых", "url": "The Swamp/Buzz Insects.mp3" },
+			{ "name": "Грязь", "url": "The Swamp/Dirt.mp3" },
+			{ "name": "Шаги", "url": "The Swamp/Footsteps.mp3" },
+			{ "name": "Жабы", "url": "The Swamp/Frogs.mp3" },
+			{ "name": "Рычание монстра", "url": "The Swamp/Growl.mp3" },
+			{ "name": "Помогите", "url": "The Swamp/Help.mp3" },
+			{ "name": "Страшная атмосфера", "url": "The Swamp/Scary sound.mp3" },
+			{ "name": "Атмосфера болота", "url": "The Swamp/Swamp.mp3" },
+			{ "name": "Течение воды", "url": "The Swamp/Water.mp3" },
+			{ "name": "Дождь", "url": "The Swamp/Rain.mp3" },
+			{ "name": "Ветер", "url": "The Swamp/Wind.mp3" }
+		]
+	},
+	"Forest": {
+		"cover": "Forest/Dark forest.jpg",
+		"music": [
+			{ "name": "Пугающая атмосфера", "url": "Forest/Action Dark forest.mp3" },
+			{ "name": "Медведь", "url": "Forest/Bear.mp3" },
+			{ "name": "Птицы", "url": "Forest/Birds.mp3" },
+			{ "name": "Костёр", "url": "Forest/Bonfire.mp3" },
+			{ "name": "Карета с лошадьми", "url": "Forest/Carriage horse.mp3" },
+			{ "name": "Лай собак", "url": "Forest/Dogs.mp3" },
+			{ "name": "Флейта", "url": "Forest/Flute.mp3" },
+			{ "name": "Шаги", "url": "Forest/Footsteps.mp3" },
+			{ "name": "Бег лошади", "url": "Forest/Horse.mp3" },
+			{ "name": "Сова", "url": "Forest/Owl.mp3" },
+			{ "name": "Дождь", "url": "Forest/Rain.mp3" },
+			{ "name": "Река", "url": "Forest/River.mp3" },
+			{ "name": "Змея", "url": "Forest/Snake.mp3" },
+			{ "name": "Сильный ветер", "url": "Forest/Strong Wind.mp3" },
+			{ "name": "Гроза", "url": "Forest/Thunder.mp3" },
+			{ "name": "Упало дерево", "url": "Forest/Tree fall.mp3" },
+			{ "name": "Странные звуки из леса", "url": "Forest/Whispers.mp3" },
+			{ "name": "Волк", "url": "Forest/Wolf.mp3" },
+			{ "name": "Ветер", "url": "The Forest/Wind.mp3" }
+		]
+	},
+	"Monster": {
+		"cover": "Monster Packs/Monsters.jpg",
+		"music": [
+			{ "name": "Рычание животного", "url": "Monster Packs/Animal growl.mp3" },
+			{ "name": "Медведь", "url": "Monster Packs/Bear.mp3" },
+			{ "name": "Демон", "url": "Monster Packs/Demon.mp3" },
+			{ "name": "Динозавр", "url": "Monster Packs/Dinosaur.mp3" },
+			{ "name": "Дракон", "url": "Monster Packs/Dragon.mp3" },
+			{
+				"name": "Элементаль земли",
+				"url": "Monster Packs/Elemental Earth.mp3"
+			},
+			{ "name": "Элементаль огня", "url": "Monster Packs/Elemental Fire.mp3" },
+			{ "name": "Элементаль воды", "url": "Monster Packs/Elemental Water.mp3" },
+			{
+				"name": "Элементаль воздуха",
+				"url": "Monster Packs/Elemental Wind.mp3"
+			},
+			{ "name": "Призрак", "url": "Monster Packs/Ghost.mp3" },
+			{ "name": "Гоблин", "url": "Monster Packs/Goblin.mp3" },
+			{ "name": "Смерть гоблина", "url": "Monster Packs/Goblin Death.mp3" },
+			{ "name": "Механизм", "url": "Monster Packs/Mechanism.mp3" },
+			{ "name": "Скелет", "url": "Monster Packs/Skeleton.mp3" },
+			{ "name": "Паук", "url": "Monster Packs/Spider.mp3" },
+			{ "name": "Гул насекомых", "url": "Monster Packs/Swarm.mp3" },
+			{ "name": "Тролль", "url": "Monster Packs/Troll.mp3" },
+			{ "name": "Зомби", "url": "Monster Packs/Zombie.mp3" }
+		]
+	},
+	"Combat": {
+		"cover": "Combat/Combat.jpg",
+		"music": [
+			{ "name": "Сломанная стрела", "url": "Combat/Arrow broke.wav" },
+			{ "name": "Выстрел", "url": "Combat/Arrow.mp3" },
+			{ "name": "Боевые барабаны", "url": "Combat/Battle Drum.mp3" },
+			{ "name": "Начало битвы", "url": "Combat/Battle Start.mp3" },
+			{ "name": "Атмосфера битвы", "url": "Combat/Battle.mp3" },
+			{ "name": "Блок", "url": "Combat/Block.mp3" },
+			{ "name": "Взрыв", "url": "Combat/Boom.mp3" },
+			{ "name": "Критическая удача", "url": "Combat/Critic hit.mp3" },
+			{ "name": "Критическая неудача", "url": "Combat/Critical fail.mp3" },
+			{ "name": "Большая толпа", "url": "Combat/Crowd fight.mp3" },
+			{ "name": "Магия земли", "url": "Combat/Earth Spell.mp3" },
+			{ "name": "Драка", "url": "Combat/Fighting.mp3" },
+			{ "name": "Огненный шар", "url": "Combat/FireBall.mp3" },
+			{ "name": "Магия лечения", "url": "Combat/Healing Spell.mp3" },
+			{ "name": "Горн", "url": "Combat/Horn.mp3" },
+			{ "name": "Магия холода", "url": "Combat/Ice Spell.mp3" },
+			{ "name": "Бросок инициативы", "url": "Combat/Initiative Roll.mp3" },
+			{ "name": "Молния", "url": "Combat/Lightning.mp3" },
+			{ "name": "Магическая ловушка", "url": "Combat/Magic trap.mp3" },
+			{ "name": "Накладывание магии", "url": "Combat/Magic.mp3" },
+			{ "name": "Металлическая цепь", "url": "Combat/Metal chain.mp3" },
+			{ "name": "Магия некромантии", "url": "Combat/Necromancy magic.mp3" },
+			{ "name": "Битва на мечах", "url": "Combat/Sword fight.mp3" }
+		]
+	}
+}
