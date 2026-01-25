@@ -1,5 +1,5 @@
 {
-	"Castle": {
+	"Замок": {
 		"cover": "Castle/Castle.jpg",
 		"music": [
 			{ "name": "Птицы", "url": "Castle/Birds.mp3" },
@@ -17,7 +17,7 @@
 			{ "name": "Ветер", "url": "Castle/Wind.mp3" }
 		]
 	},
-	"Dungeon": {
+	"Подземелье": {
 		"cover": "The Dungeon/Dungeon.jpg",
 		"music": [
 			{ "name": "Стрела", "url": "The Dungeon/Arrow.mp3" },
@@ -54,7 +54,7 @@
 			{ "name": "Ветер", "url": "Dungeon/Wind.mp3" }
 		]
 	},
-	"Town": {
+	"Город": {
 		"cover": "Old Town/Old town.jpg",
 		"music": [
 			{ "name": "Назревает конфликт", "url": "Old Town/Action.mp3" },
@@ -84,7 +84,7 @@
 			{ "name": "Ветер", "url": "Old Town/Wind.mp3" }
 		]
 	},
-	"Market": {
+	"Рынок": {
 		"cover": "Market/Market.jpg",
 		"music": [
 			{ "name": "Доспехи", "url": "Market/Armor.mp3" },
@@ -105,7 +105,7 @@
 			{ "name": "Ветер", "url": "Market/Wind.mp3" }
 		]
 	},
-	"Tavern": {
+	"Таверна": {
 		"cover": "The Tavern/Tavern.jpg",
 		"music": [
 			{ "name": "Крик лошади", "url": "The Tavern/Horse.mp3" },
@@ -133,7 +133,7 @@
 			{ "name": "Сильный ветер", "url": "The Tavern/Strong Wind.mp3" }
 		]
 	},
-	"Swamp": {
+	"Болото": {
 		"cover": "The Swamp/Swamp.jpg",
 		"music": [
 			{ "name": "Крокодил", "url": "The Swamp/Alligator.mp3" },
@@ -152,7 +152,7 @@
 			{ "name": "Ветер", "url": "The Swamp/Wind.mp3" }
 		]
 	},
-	"Forest": {
+	"Лес": {
 		"cover": "Forest/Dark forest.jpg",
 		"music": [
 			{ "name": "Пугающая атмосфера", "url": "Forest/Action Dark forest.mp3" },
@@ -176,7 +176,7 @@
 			{ "name": "Ветер", "url": "The Forest/Wind.mp3" }
 		]
 	},
-	"Monster": {
+	"Монстры": {
 		"cover": "Monster Packs/Monsters.jpg",
 		"music": [
 			{ "name": "Рычание животного", "url": "Monster Packs/Animal growl.mp3" },
@@ -205,7 +205,7 @@
 			{ "name": "Зомби", "url": "Monster Packs/Zombie.mp3" }
 		]
 	},
-	"Combat": {
+	"Битва": {
 		"cover": "Combat/Combat.jpg",
 		"music": [
 			{ "name": "Сломанная стрела", "url": "Combat/Arrow broke.wav" },
@@ -234,3 +234,4 @@
 		]
 	}
 }
+
