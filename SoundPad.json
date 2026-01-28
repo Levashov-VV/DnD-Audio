@@ -20,31 +20,31 @@
 	"Подземелье": {
 		"cover": "The Dungeon/Dungeon.jpg",
 		"music": [
-			{ "name": "Стрела", "url": "The Dungeon/Arrow.mp3" },
-			{ "name": "Летучие мыши", "url": "The Dungeon/Bats flying.mp3" },
-			{ "name": "Ловушка из ножей", "url": "The Dungeon/Blade trap.mp3" },
-			{ "name": "Пузырьки", "url": "The Dungeon/Bubbles.mp3" },
-			{ "name": "Гул насекомых", "url": "The Dungeon/Buzz Insects.mp3" },
-			{ "name": "Открытие двери", "url": "The Dungeon/Door.mp3" },
-			{ "name": "Звук капель", "url": "The Dungeon/Drips.mp3" },
-			{ "name": "Магия огня", "url": "The Dungeon/Fire.mp3" },
-			{ "name": "Костёр", "url": "The Dungeon/Fireplace.mp3" },
-			{ "name": "Шаги", "url": "The Dungeon/Footsteps.mp3" },
-			{ "name": "Рычание монстра", "url": "The Dungeon/Growl.mp3" },
-			{ "name": "Интрига", "url": "The Dungeon/Intrigue.mp3" },
-			{ "name": "Магическая ловушка", "url": "The Dungeon/Magic trap.mp3" },
-			{ "name": "Накладывание магии", "url": "The Dungeon/Magic.mp3" },
-			{ "name": "Металлическая цепь", "url": "The Dungeon/Metal chain.mp3" },
-			{ "name": "Открытие сундука", "url": "The Dungeon/Open Chest.mp3" },
+			{ "name": "Стрела", "url": "./The Dungeon/Arrow.mp3" },
+			{ "name": "Летучие мыши", "url": "./The Dungeon/Bats flying.mp3" },
+			{ "name": "Ловушка из ножей", "url": "./The Dungeon/Blade trap.mp3" },
+			{ "name": "Пузырьки", "url": "./The Dungeon/Bubbles.mp3" },
+			{ "name": "Гул насекомых", "url": "./The Dungeon/Buzz Insects.mp3" },
+			{ "name": "Открытие двери", "url": "./The Dungeon/Door.mp3" },
+			{ "name": "Звук капель", "url": "./The Dungeon/Drips.mp3" },
+			{ "name": "Магия огня", "url": "./The Dungeon/Fire.mp3" },
+			{ "name": "Костёр", "url": "./The Dungeon/Fireplace.mp3" },
+			{ "name": "Шаги", "url": "./The Dungeon/Footsteps.mp3" },
+			{ "name": "Рычание монстра", "url": "./The Dungeon/Growl.mp3" },
+			{ "name": "Интрига", "url": "./The Dungeon/Intrigue.mp3" },
+			{ "name": "Магическая ловушка", "url": "./The Dungeon/Magic trap.mp3" },
+			{ "name": "Накладывание магии", "url": "./The Dungeon/Magic.mp3" },
+			{ "name": "Металлическая цепь", "url": "./The Dungeon/Metal chain.mp3" },
+			{ "name": "Открытие сундука", "url": "./The Dungeon/Open Chest.mp3" },
 			{
 				"name": "Открытие саркофага",
-				"url": "The Dungeon/Opening the sarcophagus.mp3"
+				"url": "./The Dungeon/Opening the sarcophagus.mp3"
 			},
-			{ "name": "Крысы", "url": "The Dungeon/Rats.mp3" },
-			{ "name": "Крик монстра", "url": "The Dungeon/Roar.mp3" },
-			{ "name": "Грохот", "url": "The Dungeon/Rumble.mp3" },
-			{ "name": "Пугающая атмосфера", "url": "The Dungeon/Scary atmosphere.mp3" },
-			{ "name": "Крик", "url": "The Dungeon/Scream.mp3" },
+			{ "name": "Крысы", "url": "./The Dungeon/Rats.mp3" },
+			{ "name": "Крик монстра", "url": "./The Dungeon/Roar.mp3" },
+			{ "name": "Грохот", "url": "./The Dungeon/Rumble.mp3" },
+			{ "name": "Пугающая атмосфера", "url": "./The Dungeon/Scary atmosphere.mp3" },
+			{ "name": "Крик", "url": "./The Dungeon/Scream.mp3" },
 			{ "name": "Открылась комната", "url": "Dungeon/Secret room.mp3" },
 			{
 				"name": "Музыка подземелья",
@@ -74,7 +74,7 @@
 			{ "name": "Шаги", "url": "Old Town/Footsteps.mp3" },
 			{ "name": "Фонтан", "url": "Old Town/Fountain.mp3" },
 			{ "name": "Стройка", "url": "Old Town/Hammer.mp3" },
-			{ "name": "Тяжелые ворота", "url": "Old Town/Heavy Large.mp3" },
+			{ "name": "Тяжелые ворота", "url": "./Old Town/Heavy Large.mp3" },
 			{ "name": "Бег лошади", "url": "Old Town/Horse.mp3" },
 			{ "name": "Большая толпа", "url": "Old Town/Large Crowd.mp3" },
 			{ "name": "Дождь", "url": "Old Town/Light rain.mp3" },
@@ -136,7 +136,7 @@
 	"Болото": {
 		"cover": "The Swamp/Swamp.jpg",
 		"music": [
-			{ "name": "Крокодил", "url": "The Swamp/Alligator.mp3" },
+			{ "name": "Крокодил", "url": "./The Swamp/Alligator.mp3" },
 			{ "name": "Птицы", "url": "The Swamp/Birds.mp3" },
 			{ "name": "Пузыри", "url": "The Swamp/Bubbles.mp3" },
 			{ "name": "Гул насекомых", "url": "The Swamp/Buzz Insects.mp3" },
@@ -148,8 +148,8 @@
 			{ "name": "Страшная атмосфера", "url": "The Swamp/Scary sound.mp3" },
 			{ "name": "Атмосфера болота", "url": "The Swamp/Swamp.mp3" },
 			{ "name": "Течение воды", "url": "The Swamp/Water.mp3" },
-			{ "name": "Дождь", "url": "The Swamp/Light rain.mp3" },
-			{ "name": "Ветер", "url": "The Swamp/Wind.mp3" }
+			{ "name": "Дождь", "url": "./The Swamp/Light rain.mp3" },
+			{ "name": "Ветер", "url": "./The Swamp/Wind.mp3" }
 		]
 	},
 	"Лес": {
@@ -173,7 +173,7 @@
 			{ "name": "Упало дерево", "url": "Forest/Tree fall.mp3" },
 			{ "name": "Странные звуки из леса", "url": "Forest/Whispers.mp3" },
 			{ "name": "Волк", "url": "Forest/Wolf.mp3" },
-			{ "name": "Ветер", "url": "Forest/Wind.mp3" }
+			{ "name": "Ветер", "url": "./Forest/Wind.mp3" }
 		]
 	},
 	"Монстры": {
